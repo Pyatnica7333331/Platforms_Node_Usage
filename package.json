@@ -1,0 +1,23 @@
+{
+  "name": "platforms_node_usage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pyatnica7333331/Platforms_Node_Usage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pyatnica7333331/Platforms_Node_Usage/issues"
+  },
+  "homepage": "https://github.com/Pyatnica7333331/Platforms_Node_Usage#readme",
+  "dependencies": {
+    "@pyatnica7333331/platforms_node": "^1.0.0"
+  }
+}
